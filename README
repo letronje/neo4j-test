@@ -1,0 +1,3 @@
+Java code testing neo4j's embedded DB's(coupled with lucene index) response times.
+For a simple graph storing adjacent cities & areas, got sub-millisecond resp times for fetching nodes, neighbours. FAST !!!
+
